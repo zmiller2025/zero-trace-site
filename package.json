@@ -13,3 +13,8 @@
     "react-dom": "18.2.0"
   }
 }
+{
+  "dependencies": {
+    "lucide-react": "^0.400.0"
+  }
+}
