@@ -2,7 +2,7 @@ import "./globals.css";
 
 export const metadata = {
   title: "Zero Trace Pro Cleaning",
-  description: "Commercial & Residential Cleaning",
+  description: "Commercial • Residential • New Builds — Serving the Indianapolis area",
 };
 
 export default function RootLayout({ children }) {
