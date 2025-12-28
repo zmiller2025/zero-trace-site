@@ -1,2 +1,4 @@
-* { box-sizing: border-box; }
-html, body { margin: 0; padding: 0; font-family: Arial, sans-serif; }
+app/
+  layout.jsx
+  page.jsx
+  globals.css
