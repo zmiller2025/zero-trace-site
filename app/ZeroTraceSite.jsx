@@ -1,2 +1,5 @@
-import React from "react";
-export default function ZeroTraceProCleaningSiteDraft() {
+<img
+  src="/logo.png"
+  alt="Zero Trace Pro Cleaning Logo"
+  className="h-10 w-auto"
+/>
