@@ -1,13 +1,8 @@
-import React from "react";
-{<img
-  src="/logo.png"
-  alt="Zero Trace Pro Cleaning"
-  className="h-10 w-10 rounded-2xl object-contain border border-white/10 bg-white/5 p-1"
-/>
+export default function Home() {
+  return (
+    <div style={{ padding: 40 }}>
+      <h1 style={{ fontSize: 48 }}>🚨 PAGE.JSX IS WORKING</h1>
+      <p>If you see this, the old page is gone.</p>
+    </div>
+  );
 }
-<div
-  className="grid h-10 w-10 place-items-center rounded-2xl border border-white/10 bg-white/5"
-  aria-label="Logo placeholder"
->
-  <Sparkles className="h-5 w-5" style={{ color: palette.orange }} />
-</div>
